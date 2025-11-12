@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547196106072",
+    "project_id": "ticket-5c63f",
+    "storage_bucket": "ticket-5c63f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547196106072:android:bb188af6aebe4e02e8a12d",
+        "android_client_info": {
+          "package_name": "com.example.push_ntf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFlVgxbfNGr9ITF1MMSJQVOElKOFF3L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547196106072:android:4c8a77f7854e7f6ce8a12d",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFlVgxbfNGr9ITF1MMSJQVOElKOFF3L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
